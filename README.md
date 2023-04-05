@@ -1,1 +1,1 @@
-# Домашнее задание Create, Insert и Celect.
+# Домашнее задание Create, Insert и Select.
